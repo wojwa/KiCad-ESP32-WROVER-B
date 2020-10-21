@@ -1,0 +1,1 @@
+# KiCad-ESP32-WROVER-B-symbol
