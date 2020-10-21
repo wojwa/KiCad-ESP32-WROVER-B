@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROVER-B
+D RF Module, ESP32_DevKitC_V4, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD
+F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-b_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
